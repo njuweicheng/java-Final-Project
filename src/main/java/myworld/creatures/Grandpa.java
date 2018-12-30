@@ -1,11 +1,12 @@
 package myworld.creatures;
 import javafx.scene.image.ImageView;
+import javafx.scene.shape.Rectangle;
 
 public class Grandpa extends GoodCamp implements Cheerable {
     private static boolean isBirth=false;
 
-    public Grandpa(ImageView view) throws CreateException{
-        super(view);
+    public Grandpa(ImageView view,Rectangle rectangle) throws CreateException{
+        super(view,rectangle);
         if(isBirth){
             throw new CreateException("Only one Grandpa");
         }
@@ -13,7 +14,7 @@ public class Grandpa extends GoodCamp implements Cheerable {
 
         //根据不同类型葫芦娃确定hp、atk和dis，甚至技能
         initHp=hp=200;
-        initAtk=atk=0;
+        initAtk=atk=20;
 //        dis=1;
 
         isBirth=true;
@@ -21,6 +22,5 @@ public class Grandpa extends GoodCamp implements Cheerable {
 
     @Override
     public void cheer() {
-
     }
 }

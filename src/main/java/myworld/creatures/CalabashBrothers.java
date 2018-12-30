@@ -15,9 +15,9 @@ public enum CalabashBrothers {
         this.index = r;
     }
     */
-    RED("大娃",350,50), ORANGE("二娃",200,60), YELLOW("三娃",400,40),
-    GREEN("四娃",300,55), CYAN("五娃",300,55),
-    BLUE("六娃",350,45), PURPLE("七娃",100,80);
+    RED("大娃",450,40), ORANGE("二娃",200,56), YELLOW("三娃",400,42),
+    GREEN("四娃",300,52), CYAN("五娃",300,52),
+    BLUE("六娃",320,50), PURPLE("七娃",100,70);
 
     public final String name;
     public final int initHp;

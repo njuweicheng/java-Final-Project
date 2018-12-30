@@ -1,0 +1,174 @@
+Calabash Brothers record.
+CRANEWING
+FISHSCALE
+attack 大娃 蝎子
+attack 喽啰2 三娃
+attack 喽啰1 五娃
+attack 七娃 喽啰6
+attack 蝎子 大娃
+attack 爷爷 蝎子
+attack 六娃 喽啰6
+attack 五娃 喽啰1
+attack 三娃 喽啰2
+attack 四娃 喽啰3
+attack 二娃 喽啰2
+attack 喽啰3 四娃
+attack 喽啰6 六娃
+attack 喽啰5 五娃
+attack 喽啰4 大娃
+attack 蛇精 大娃
+move 五娃 6 6
+move 喽啰1 6 11
+move 大娃 5 5
+move 四娃 4 6
+move 喽啰6 7 12
+move 蝎子 5 10
+move 喽啰2 3 12
+move 六娃 7 7
+move 喽啰5 6 12
+move 喽啰4 5 12
+move 二娃 3 7
+move 喽啰3 4 12
+move 蛇精 5 13
+attack 四娃 喽啰3
+attack 五娃 喽啰1
+attack 大娃 蝎子
+attack 喽啰1 五娃
+attack 爷爷 蝎子
+attack 喽啰2 二娃
+attack 蝎子 大娃
+attack 喽啰6 六娃
+attack 六娃 喽啰6
+attack 喽啰3 四娃
+attack 三娃 喽啰2
+attack 七娃 喽啰6
+attack 喽啰5 五娃
+attack 喽啰4 大娃
+attack 二娃 喽啰2
+attack 蛇精 大娃
+move 喽啰1 6 10
+move 四娃 4 7
+move 大娃 5 6
+move 喽啰6 7 11
+move 五娃 6 7
+move 喽啰2 3 11
+move 爷爷 5 4
+move 六娃 7 8
+move 喽啰3 4 11
+move 二娃 3 8
+move 七娃 7 7
+move 三娃 3 7
+move 喽啰5 6 11
+move 喽啰4 5 11
+attack 五娃 喽啰1
+attack 蝎子 大娃
+attack 四娃 喽啰3
+attack 喽啰6 六娃
+attack 大娃 蝎子
+attack 喽啰2 二娃
+attack 喽啰1 五娃
+attack 爷爷 蝎子
+attack 二娃 喽啰2
+attack 喽啰3 四娃
+attack 三娃 喽啰2
+attack 六娃 喽啰6
+attack 喽啰4 大娃
+attack 七娃 喽啰6
+dead 喽啰6
+attack 喽啰5 五娃
+attack 蛇精 大娃
+move 爷爷 5 5
+move 四娃 4 8
+move 大娃 5 7
+move 五娃 6 8
+move 喽啰2 3 10
+move 喽啰3 4 10
+move 蛇精 5 12
+attack 爷爷 蝎子
+attack 喽啰2 二娃
+attack 五娃 喽啰1
+attack 喽啰1 五娃
+attack 大娃 蝎子
+attack 四娃 喽啰3
+attack 蝎子 大娃
+dead 大娃
+attack 喽啰5 五娃
+attack 喽啰3 四娃
+attack 蛇精 爷爷
+attack 三娃 喽啰2
+attack 二娃 喽啰2
+dead 喽啰2
+attack 七娃 喽啰1
+attack 喽啰4 爷爷
+attack 六娃 喽啰1
+move 爷爷 5 6
+move 七娃 6 7
+attack 四娃 喽啰3
+attack 蝎子 爷爷
+attack 五娃 喽啰1
+dead 喽啰1
+attack 爷爷 蝎子
+attack 三娃 喽啰3
+attack 喽啰3 四娃
+attack 蛇精 爷爷
+dead 爷爷
+attack 喽啰5 五娃
+dead 五娃
+attack 二娃 喽啰3
+dead 喽啰3
+attack 七娃 喽啰5
+attack 喽啰4 七娃
+attack 六娃 喽啰5
+move 三娃 4 7
+attack 蝎子 七娃
+attack 四娃 蝎子
+attack 三娃 蝎子
+attack 七娃 喽啰5
+attack 喽啰4 七娃
+attack 喽啰5 七娃
+dead 七娃
+attack 蛇精 四娃
+attack 六娃 喽啰5
+attack 二娃 蝎子
+move 四娃 5 8
+move 二娃 4 8
+move 蛇精 4 12
+attack 蝎子 四娃
+attack 四娃 蝎子
+attack 喽啰4 四娃
+dead 四娃
+attack 三娃 蛇精
+attack 蛇精 二娃
+attack 喽啰5 六娃
+attack 二娃 蛇精
+attack 六娃 喽啰5
+move 蛇精 4 11
+attack 蝎子 二娃
+dead 二娃
+attack 蛇精 三娃
+attack 喽啰5 六娃
+attack 三娃 蛇精
+attack 喽啰4 三娃
+attack 六娃 喽啰5
+attack 蝎子 三娃
+attack 三娃 蛇精
+attack 喽啰5 六娃
+attack 蛇精 三娃
+attack 六娃 喽啰5
+dead 喽啰5
+attack 喽啰4 三娃
+attack 蝎子 三娃
+attack 蛇精 三娃
+attack 六娃 蝎子
+attack 三娃 蛇精
+attack 喽啰4 三娃
+dead 三娃
+attack 蝎子 六娃
+attack 喽啰4 六娃
+attack 六娃 蝎子
+dead 蝎子
+attack 蛇精 六娃
+attack 六娃 喽啰4
+attack 蛇精 六娃
+dead 六娃
+Over

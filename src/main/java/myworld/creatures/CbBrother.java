@@ -1,13 +1,14 @@
 package myworld.creatures;
 import javafx.scene.image.ImageView;
+import javafx.scene.shape.Rectangle;
 
 public class CbBrother extends GoodCamp {
     public static final int MAX=7;
     private static int birth=0;
 
     private CalabashBrothers cb;
-    public CbBrother(ImageView view) throws CreateException {
-        super(view);
+    public CbBrother(ImageView view, Rectangle rectangle) throws CreateException {
+        super(view,rectangle);
         if(birth>=MAX){
             throw new CreateException("Only seven calabashBrothers.");
         }
